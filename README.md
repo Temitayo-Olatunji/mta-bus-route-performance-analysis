@@ -521,7 +521,7 @@ Examines differences across boroughs and directions of travel.
 **Page 5: Segment Table**
 
 Provides a detailed segment-level view, allowing identification and comparison of individual segments with notably low average road speeds.
-![Segments Dashboard](segments.png.png)
+![Segments Dashboard](segment.png.png)
 
 The dashboard also incorporates interactive filters, including route type, date and borough, to support further exploration of the data.
 
