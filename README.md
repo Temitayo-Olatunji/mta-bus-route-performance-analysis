@@ -500,28 +500,28 @@ The dashboard was structured to allow users to explore performance at different 
 **Page 1: Overview**
 
 Presents the main performance indicators and selected comparisons across route types, hours of the day and monthly bus trip volumes.
-![Overview Dashboard](overview.png)
+![Overview Dashboard](overview.png.png)
 
 **Page 2: Time & Trend**
 
 Examines hourly and monthly variations in average road speed, average road distance and average travel time.
 
-![Time Trend Dashboard](time-trend.png)
+![Time Trend Dashboard](time-trend.png.png)
 
 **Page 3: Route Type**
 
 Compares performance measures across Local, Limited, Express, SBS, School and School Limited routes.
-![Route Performance Dashboard](route-performance.png)
+![Route Performance Dashboard](route-performance.png.png)
 
 **Page 4: Geographic & Direction**
 
 Examines differences across boroughs and directions of travel.
-![Geographic and Direction Dashboard](geographic-direction.png) 
+![Geographic and Direction Dashboard](geographic-direction.png.png) 
 
 **Page 5: Segment Table**
 
 Provides a detailed segment-level view, allowing identification and comparison of individual segments with notably low average road speeds.
-![Segments Dashboard](segments.png)
+![Segments Dashboard](segments.png.png)
 
 The dashboard also incorporates interactive filters, including route type, date and borough, to support further exploration of the data.
 
